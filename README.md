@@ -1,5 +1,5 @@
 
-### Bem vindo!!! Aqui é aonde eu posto meus "projetos", fique a vontade para visualiza-los:)
+### Bem vindo!!! Aqui é aonde eu posto meus "projetos", fique a vontade para visualizá-los:)
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-alexandre-1aa395231/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexandrre_o/)
