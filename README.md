@@ -1,5 +1,6 @@
 
-### Olá! Bem vindo ao meu perfil do GitHub 👋 
+### Bem vindo!!! E é aqui aonde eu posto meus "projetos", fique á vontade para visualizalos ou se for ajudar em algo, pode usalos:)
+
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-alexandre-1aa395231/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexandrre_o/)
