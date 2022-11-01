@@ -21,4 +21,4 @@
  />
 </div><br/>
 
-Sou fissurado por tecnologia, amo mexer com códigos e criar novos projetos, cada dia que passa sempre tento aprimorar mais minhas skills na programação:) 
+ 
